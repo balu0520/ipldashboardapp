@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.RCB {
+  background-color: #a4261d;
+}
+.KKR {
+  background-color: #5755a7;
+}
+.KXIP {
+  background-color: #d91c1f;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.RR {
+  background-color: #da237b;
+}
+.MI {
+  background-color: #13418b;
+}
+.SH {
+  background-color: #f26d22;
+}
+.DC {
+  background-color: #4f5db0;
+}
+.team-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.team-match-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.team-banner {
+  height: 450px;
+  width: 100%;
+}
+.team-match-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.recent-matches-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  list-style-type: none;
+}

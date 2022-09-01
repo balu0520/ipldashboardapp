@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.item-link {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+}
+.team-item {
+  background-color: #ffffff33;
+  border: 1px solid #475569;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  width: 420px;
+}
+.team-logo {
+  height: 155px;
+}
+.team-item-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-left: 5px;
+}

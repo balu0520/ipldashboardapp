@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.latest-match-container {
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 13px;
+}
+.competing-team-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.venue-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.date-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.result-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.competing-team-icon {
+  height: 200px;
+}
+.latest-match-details-1 {
+  text-align: right;
+  align-self: flex-start;
+}
+.innings-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.innings {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.man-of-match-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.man-of-match {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.umpires-para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.umpires {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
